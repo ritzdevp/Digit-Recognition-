@@ -3,6 +3,9 @@ Trying algorithms to classify handwritten digits correctly.
 
 
 Here we use the MNIST data set available in sklearn.datasets. Attempt to classify 5/not-5 is made using binary classifiers.
+
+
+
 #Stochastic Gradient Classifier
 Confusion matrix, ROC curves, PR curves used.
 
